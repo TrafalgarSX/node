@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "nodejs-websocket": "^1.7.2",
+    "ws": "^8.13.0"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.7",
+    "utf-8-validate": "^6.0.3"
+  }
+}
